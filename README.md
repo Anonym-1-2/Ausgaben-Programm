@@ -10,7 +10,8 @@ Klonen Sie das Repository und installieren Sie das Skript:
 'git clone https://github.com/Anonym-1-2/Ausgaben-Programm/ausgaben.py'
 
 ## Nutzung
-Starten Sie das Skript mit folgendem Befehl:
+Gehen Sie zum 'Ausgaben-Programm' Ordner,
+starten Sie das Skript mit folgendem Befehl:
 'python3 ausgaben.py'
 
 
