@@ -7,7 +7,7 @@ Dieses Programm ist dafür da um Ausgaben in Sectionen zu speichern und sie aufz
 
 ## Installation
 Klonen Sie das Repository und installieren Sie das Skript:
-'git clone https://github.com/candy-c0de/Ausgaben-Programm/ausgaben.py'
+'git clone https://github.com/candy-c0de/Ausgaben-Programm'
 
 ## Nutzung
 Gehen Sie zum 'Ausgaben-Programm' Ordner,
