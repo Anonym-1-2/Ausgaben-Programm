@@ -7,7 +7,7 @@ Dieses Programm ist dafür da um Ausgaben in Sectionen zu speichern und sie aufz
 
 ## Installation
 Klonen Sie das Repository und installieren Sie das Skript:
-'git clone https://github.com/Anonym-1-2/Ausgaben-Programm'
+'git clone https://github.com/Anonym-1-2/Ausgaben-Programm/ausgaben.py'
 
 ## Nutzung
 Starten Sie das Skript mit folgendem Befehl:
